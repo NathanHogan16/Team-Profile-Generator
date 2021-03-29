@@ -9,6 +9,7 @@ It is an object oriented project that lets you create a team profile that will l
 * [Contributing](#Contributing)
 * [Testing](#Testing)
 * [Questions](#Questions?)
+* [Video demonstration](#Video-demonstration)
 ## Installation
 Copy the link and clone it to your local computer and install the npm packages and inquirer and jest.
 ## Usage
@@ -22,6 +23,9 @@ Download the project then in your terminal install the npm requirer and jest the
 ## Questions?
 Do you have any questions about this project (how to install, contribute, or test?) or see something wrong? 
 Feel free to reach out.
+
+## Video demonstration
+Link: 
  
 github: [NathanHogan16](https://github.com/NathanHogan16) 
 
