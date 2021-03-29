@@ -1,3 +1,4 @@
+<img width="880" alt="team profile" src="https://user-images.githubusercontent.com/75545915/112773975-57ef6b80-8ff5-11eb-9165-d45850a616b5.png">
 # Team-Profile-Generator
 ![License:The Unlicense](https://img.shields.io/badge/License-TheUnlicense-blue)
 ## Description
